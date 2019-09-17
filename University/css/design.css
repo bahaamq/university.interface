@@ -1,0 +1,574 @@
+body
+{
+	font-family:rubik,arial;
+	width: 1366px;
+	/*height:  768px;*/
+}
+
+
+header
+{
+	padding-top:40px;
+padding-bottom: 40px;
+}
+p
+{
+	color:#CDCDCD;
+}
+#logo
+{
+	float:left;
+width: 40%;
+margin:0px;
+}
+
+#logo h2
+
+{
+	font-weight: 400;
+	letter-spacing: 4px;
+text-align: center;
+margin: 0;
+padding:0;
+}
+
+
+#nav1
+{
+	float :left;
+
+width: 40%;
+
+}
+#nav1 a
+{
+	text-decoration:none;
+
+word-spacing: 7px;
+font-size:18px;
+
+
+color:black;
+font-family:rubik,arial;
+
+}
+
+#word
+{
+	float:left;
+		width: 15%;
+
+
+}
+#word a
+{
+	text-decoration:none;
+	font-weight: 300;
+	font-size:15px;
+	color:rgb(11, 136, 144);
+	font-size:16px;
+	font-family:rubik,arial;
+}
+ #img1
+{
+	clear:both;
+ background-image: url("pic2.jpg");
+	width:100%;
+	height:519px;
+	background-repeat:no-repeat;
+	
+}
+
+#ddiv
+{
+	text-align:center;
+	padding-top:180px;
+	color :white;
+
+}
+#con2 form
+{
+	background-color:white;
+	display: inline-block;
+	padding:10px;
+	margin-right:20px;
+
+}
+
+#con2 span
+{
+	Font color: rgb(128, 128, 128);
+}
+ button
+{
+background-color :rgb(17, 203, 215);
+ padding: 15px;
+ margin-left:20px;
+ color:white;
+
+}
+
+
+#bt2:hover
+{
+background-image:url('cut.png');
+border:1px solid white;
+}
+
+#space
+{
+	
+	border:none;
+border-right:1px solid ;
+}
+
+#welcome1
+{
+	float:left;
+	width:30%;
+margin-left: 97px;
+	
+
+}
+#welcome1 p
+{
+	color: rgb(128, 128, 128);
+	line-height: 200%;
+}
+
+#welcome1 h3
+{
+	color:rgb(17, 203, 215);;
+}
+
+
+#read:hover
+{
+	background-color:white;
+	color:black;
+	border:1px solid 
+}
+#read
+{
+margin-left:0px;
+}
+#welcome2
+{
+	float:right;
+	margin-right:100px;
+}
+
+
+#power
+{
+	clear:both;
+	margin-top:400px;
+	width:80%;
+	margin-left:7%;
+}
+
+
+
+#conte
+{
+	float:left;
+
+	width:20%;
+	margin-left:50px;
+	
+}
+#conte1
+{
+	padding-bottom: :900px;
+}
+
+#conte h5
+{
+	color:rgb(17, 203, 215);
+}
+
+
+
+#edu
+{
+	
+	background-color:#F8F9FA;
+	clear:both;
+height:700px;
+padding-top:70px;
+}
+#eduimg
+{
+	clear:both;
+	padding-left:190px;
+	float:left;
+
+}
+
+#edu1
+{
+color:#D7D8D9;
+
+	padding-top:4px;
+width:30%;
+
+padding-right: 140px;
+	float:right;
+	line-height: 200%;
+}
+
+#edu1 h3
+{
+	color:rgb(17, 203, 215);
+}
+
+#edu1 p
+{
+	font-size: 20px;
+}
+
+#popular
+{
+	padding-top:80px;
+	text-align:center;
+clear:both;
+}
+
+
+#popular h3
+
+{
+
+color:#12CBD7;
+
+}
+#popular p
+{
+	color:#C9CACA;
+
+	font-size: 15px ;
+}
+
+#popularbtn
+{
+
+	background-image:url('book.png');
+	background-repeat: no-repeat;
+background-position: left;
+
+
+
+}
+
+#popularbtn:hover
+{
+	background-color: white;
+	color:black;
+	border:1px solid #21CEDA;
+	background-image:url('book2.png');
+	background-repeat: no-repeat;
+background-position: left;
+
+}
+
+
+#content5
+{
+	background-color:#F8F9FA;
+padding-bottom: 100px;
+	
+}
+
+
+
+
+
+#q1
+{
+	
+	background-color: white;
+	display: inline-block;
+	margin-top: 3%;
+	margin-left:3%;
+	width:29%;
+padding-left: 10px;
+
+}
+
+#q1:hover
+{
+	box-shadow :0 0 17px 13px #757474 ;
+
+
+}
+
+
+
+#q1 h3
+{
+	font-weight: lighter;
+
+}
+
+
+#q1 img
+{
+
+
+}
+h3:hover
+{
+	color:#11CBD7;
+}
+
+
+#sale
+{
+	color:#11CBD7;
+	
+	display:inline-block; /* in order to give the span specific width you should do this */
+	width:70%;
+}
+
+
+#old 
+{
+	text-decoration: line-through;
+	padding-right: 0px;
+}
+/* end of old price and sale */
+
+
+
+#teacher
+{
+	text-align: center;
+	margin-top:70px;
+
+}
+
+#contentqq
+{
+	background-image: url("green.png");
+	width:31%;
+	height:300px;
+	float:left;
+	margin-left: 30px;
+margin-bottom: 200px;
+
+}
+
+#contentqq h3
+{
+	margin-top:240px;
+color:white;
+	padding-left:12px;
+
+}
+
+
+
+#contentqq p
+{
+	color:white;
+	margin-left:13px;
+}
+
+
+
+#blogcon
+{
+	clear: both;
+	background-color: #F8F9FA;
+	height: 800px;
+	
+}
+
+#blogcon p
+{
+	color:black;
+	margin-left: 17px;
+	font-size: 20px;
+}
+#blogcon img
+{
+	width: 100%;
+}
+#blog
+{
+	text-align: center;
+	padding-top:15px;
+}
+
+#blog h2
+{
+	color:#12CBD7;
+
+}
+#blogone,#blogtwo
+{
+	padding-top: 40px;
+	width:40%;
+
+	margin-left: 3%;
+
+}
+
+#blogone
+{
+		float: left;
+	background-color: white;
+	padding-top: 0px;
+	margin-top:3%;
+
+}
+
+
+
+#blogtwo
+{
+	width:37%;padding-top: 0px;
+	float: right;
+	margin-right:5%;
+	
+}
+
+#blogtwoo
+
+{
+height: 75px;
+padding-top:40px;
+
+}
+#blogtwoo img
+{
+
+	height: 100%;
+width: 28%;
+
+}
+
+
+#spn
+{
+	clear: both;
+float: right;
+width: 70%;
+padding-left:2%;
+font-size: 17px;
+}
+
+#coolweb
+{
+	background: #11CBD7;
+	height:140px;
+	padding-top: 1%;
+}
+
+#cool1
+{
+	
+	float: left;
+	margin-left: 12%;
+}
+#cool1 h2
+{
+	color:white;
+	font-weight: lighter;
+}
+
+
+#cool2
+{
+	float:right;
+background-color: white;
+	
+	margin-right:  12%;
+	margin-top:4%;
+	padding: 3px;
+
+
+}
+
+
+
+#cool2f button
+{
+	height: 100%;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin:0px; 
+
+}
+#cool2f input
+{
+	padding:7px;
+	padding-right: 140px;
+	border: none;
+	outline: none;
+}
+
+#quick1
+{
+	width:20%;
+	float:left;
+	margin-top: 4%;
+	margin-left:4%;
+}
+
+#quick1 h3
+{
+	font-weight: lighter;
+}
+#quick1 h3:hover
+{
+	color:black;
+}
+#qqq1
+{
+	float: left;
+
+}
+
+#qqq2
+{
+	float: right;
+	margin-right: 50%;
+	
+}
+
+#quick1a
+{
+	text-decoration: none;
+	
+}
+#quick1a p
+{
+	color:#11CBD7;
+	text-decoration: none;
+font-size: 16px;
+}
+#diff
+{
+	color:#11CBD7;
+}
+
+
+#end
+{
+	clear: both;
+	float:left;
+	margin-left:4%;
+
+}
+#footers
+{
+	float:right;
+	margin-top:10px;
+	margin-right:10%;
+}
+#foo
+{
+
+	color:#11CBD7;
+}
